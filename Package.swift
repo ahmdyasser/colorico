@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "colorico",
     dependencies: [
-        .package(url: "https://github.com/apple/swift-argument-parser", from: "0.2.0"),
+        .package(url: "https://github.com/apple/swift-argument-parser", from: "1.1.2"),
 
     ],
     
